@@ -5,4 +5,4 @@ Selecciona el enlace para verlo en acción en Vercel:
 
 https://portafolio-josue-psi.vercel.app/ 
 # Muestra
-![wqdw](https://github.com/user-attachments/assets/2b248c22-0427-4866-8b7d-935a3bc0f4d5)
+![wqdw](https://github.com/user-attachments/assets/710b094e-1db8-4dc4-b6a5-f570c8dff6de)
